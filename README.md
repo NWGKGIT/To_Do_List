@@ -10,14 +10,13 @@ A simple, clean, and elegant to-do list application built with Flutter. It demon
 - **State Management:** Efficiently manages the app's state to keep the UI in sync with the data.
 - **Toggle Task Status:** Mark tasks as complete or incomplete with a simple tap.
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
-*(Add your app screenshots here. You can drag and drop them onto the GitHub README editor.)*
 
 | Task List (Empty) | Task List (With Items) | Add Task Dialog |
 | :---------------: | :--------------------: | :---------------: |
 | ![Empty State](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Empty+List)      | ![Task List](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Task+List)           | ![Add Task](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Add+Task+Dialog)        |
-
+ -->
 
 ## 📂 Project Structure
 
@@ -48,8 +47,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/flutter-sqlite-todo-app.git](https://github.com/your-username/flutter-sqlite-todo-app.git)
-    cd flutter-sqlite-todo-app
+    git clone [https://github.com/NWGKGIT/to_do_list.git](https://github.com/NWGKGIT/to_do_list.git)
+    cd to_do_list
     ```
 
 2.  **Install dependencies:**
