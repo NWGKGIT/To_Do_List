@@ -10,19 +10,19 @@ A simple, clean, and elegant to-do list application built with Flutter. It demon
 - **State Management:** Efficiently manages the app's state to keep the UI in sync with the data.
 - **Toggle Task Status:** Mark tasks as complete or incomplete with a simple tap.
 
-<!-- ## 📸 Screenshots
-
+<!-- 
+## 📸 Screenshots
 
 | Task List (Empty) | Task List (With Items) | Add Task Dialog |
 | :---------------: | :--------------------: | :---------------: |
-| ![Empty State](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Empty+List)      | ![Task List](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Task+List)           | ![Add Task](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Add+Task+Dialog)        |
- -->
+| ![Empty State](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Empty+List) | ![Task List](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Task+List) | ![Add Task](https://placehold.co/300x600/e8eaf6/7c7c7c?text=Add+Task+Dialog) |
+-->
 
 ## 📂 Project Structure
 
 The project follows a clean and scalable folder structure:
 
-
+```text
 lib/
 ├── main.dart                 // App entry point
 ├── models/
@@ -32,7 +32,7 @@ lib/
 ├── screens/
 │   └── home_screen.dart      // Main UI screen
 └── widgets/
-└── task_tile.dart        // Reusable widget for displaying a task
+    └── task_tile.dart        // Reusable widget for displaying a task
 
 
 ## 🚀 Getting Started
@@ -70,7 +70,3 @@ This project utilizes the following packages:
 -   [`sqflite`](https://pub.dev/packages/sqflite): For local storage using SQLite.
 -   [`path`](https://pub.dev/packages/path): For handling file system paths.
 -   [`google_fonts`](https://pub.dev/packages/google_fonts): For clean and beautiful typography.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
