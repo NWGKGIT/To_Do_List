@@ -33,7 +33,7 @@ lib/
 │   └── home_screen.dart      // Main UI screen
 └── widgets/
     └── task_tile.dart        // Reusable widget for displaying a task
-
+```
 
 ## 🚀 Getting Started
 
